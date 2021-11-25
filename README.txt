@@ -1,10 +1,10 @@
-This document is used for some basic bash shell command line
+This document is used for some basic bash shell command lines
 Note: 
-     + Command line in this document is always in double quotes ("")
-     + Name file/object mentioned is in single quote ('')
+     + Command lines in this document is in double quotes ("")
+     + Names of file/object in this document is in single quote ('')
 
-01/ Compose a 'bash_example.sh' and run by the command line:  "bash bash_example.sh".
-    Note that composing the 'bash_example.sh' can be done with 'Vim' or 'Notepad++'
+01/ Compose a 'bash_example.sh' and run the file by the command line:  "bash bash_example.sh".
+    Note that composing the 'bash_example.sh' can be done with 'Notepad++'
 
 02/ Some popular command lines:
     + "man <command line>"                             : study the command line. For example:  "man ls"
