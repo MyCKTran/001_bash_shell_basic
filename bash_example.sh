@@ -3,18 +3,23 @@
 echo "Hello World"
 
 #02/ print current date
+echo "Show the current date:"
 date
 
 #03/ check the current directory
+echo "Show the current directory:"
 pwd
 
 #04/ list all file and folders at the current directory not including hidden files/folders
+echo "List all files/folders:"
 ls
 
 #05/ list all file and folders at the current directory including hidden files/folders
+echo "List all files/folders including hidden files (begin with a dot (.)):"
 ls -a
 
 #06/ scala variable
+echo "Scala variable:"
 a=4
 b=5
 echo $a
